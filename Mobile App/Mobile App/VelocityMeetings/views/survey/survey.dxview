@@ -1,0 +1,43 @@
+<div data-options="dxView : { name: 'survey', title: 'Survey Questions' } ">
+    <div style="font-size: 11px;" class="shows-view" data-options="dxContent : { targetPlaceholder: 'content' } ">
+
+
+        <br />
+        <img src="images/logo.jpg" />
+
+        <div style="color: red; margin: 5px; font-size: 12px;" data-bind="visible: errorVisible, text: errorMessage"></div>
+
+        <div data-bind="dxTabs: { dataSource: SurveyQuestions, selectedIndex: currentIndex }">
+            <div data-options="dxTemplate: {name: 'item'}">
+                <div data-bind="text: text, style: { fontSize: $parent.surveyFontSize() }"></div>
+            </div>
+        </div>
+        <div data-bind="dxMultiView: {
+    dataSource: SurveyQuestions,
+    selectedIndex: currentIndex,
+    height: 250
+}">
+            <div data-options="dxTemplate : { name: 'item' } ">
+                <div style="margin: 25px;">
+                    <h2 data-bind="text: $data.question"></h2>
+                    <div style="display: inline-block; text-align: right; width: 80%; border: 0px; color:black;"
+                         data-bind="dxTextBox: { value: $data.answer  }">
+                    </div>
+                    <div style='float: right; margin-right: 10%;' data-bind="dxButton: { text: 'Click me', clickAction: function (e) { $root.resultsItemClick($data) } }"></div>
+                </div>
+            </div>
+        </div>
+
+        <div style='float: right; margin-right:50px;' data-bind="dxButton: { text: 'Submit', clickAction: function (e) { submitQuestionsClick() } }"></div>
+
+            <!--<div data-bind="dxList: { dataSource: Shows }">
+            <div data-options="dxTemplate: { name: 'item' }" data-bind="dxAction: function() {$root.resultsItemClick($data)}" style=" border: 1px solid lightgrey; padding: 15px; color black; width: 200px; margin: auto;">
+                <img data-bind="attr:{ src:  image }" /><br />
+                <b><span data-bind="text: date"></span></b><br />
+                <b><span data-bind="text: location"></span></b>
+            </div>
+        </div>-->
+        </div>
+</div>
+
+<!--data-bind="dxAction: $parent.resultsItemClick"-->

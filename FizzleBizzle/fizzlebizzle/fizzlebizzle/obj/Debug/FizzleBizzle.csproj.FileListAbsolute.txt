@@ -1,0 +1,66 @@
+c:\users\mager\onedrive\documents\visual studio 2015\Projects\Fizzle\FizzleBizzle\FizzleBizzle\bin\ApplicationInsights.config
+c:\users\mager\onedrive\documents\visual studio 2015\Projects\Fizzle\FizzleBizzle\FizzleBizzle\bin\roslyn\csc.exe
+c:\users\mager\onedrive\documents\visual studio 2015\Projects\Fizzle\FizzleBizzle\FizzleBizzle\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\mager\onedrive\documents\visual studio 2015\Projects\Fizzle\FizzleBizzle\FizzleBizzle\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\mager\onedrive\documents\visual studio 2015\Projects\Fizzle\FizzleBizzle\FizzleBizzle\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\mager\onedrive\documents\visual studio 2015\Projects\Fizzle\FizzleBizzle\FizzleBizzle\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\mager\onedrive\documents\visual studio 2015\Projects\Fizzle\FizzleBizzle\FizzleBizzle\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\mager\onedrive\documents\visual studio 2015\Projects\Fizzle\FizzleBizzle\FizzleBizzle\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\mager\onedrive\documents\visual studio 2015\Projects\Fizzle\FizzleBizzle\FizzleBizzle\bin\roslyn\System.Collections.Immutable.dll
+c:\users\mager\onedrive\documents\visual studio 2015\Projects\Fizzle\FizzleBizzle\FizzleBizzle\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\mager\onedrive\documents\visual studio 2015\Projects\Fizzle\FizzleBizzle\FizzleBizzle\bin\roslyn\vbc.exe
+c:\users\mager\onedrive\documents\visual studio 2015\Projects\Fizzle\FizzleBizzle\FizzleBizzle\bin\roslyn\VBCSCompiler.exe
+c:\users\mager\onedrive\documents\visual studio 2015\Projects\Fizzle\FizzleBizzle\FizzleBizzle\bin\roslyn\VBCSCompiler.exe.config
+c:\users\mager\onedrive\documents\visual studio 2015\Projects\Fizzle\FizzleBizzle\FizzleBizzle\bin\FizzleBizzle.dll.config
+c:\users\mager\onedrive\documents\visual studio 2015\Projects\Fizzle\FizzleBizzle\FizzleBizzle\bin\FizzleBizzle.dll
+c:\users\mager\onedrive\documents\visual studio 2015\Projects\Fizzle\FizzleBizzle\FizzleBizzle\bin\FizzleBizzle.pdb
+c:\users\mager\onedrive\documents\visual studio 2015\Projects\Fizzle\FizzleBizzle\FizzleBizzle\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\mager\onedrive\documents\visual studio 2015\Projects\Fizzle\FizzleBizzle\FizzleBizzle\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\mager\onedrive\documents\visual studio 2015\Projects\Fizzle\FizzleBizzle\FizzleBizzle\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\mager\onedrive\documents\visual studio 2015\Projects\Fizzle\FizzleBizzle\FizzleBizzle\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\mager\onedrive\documents\visual studio 2015\Projects\Fizzle\FizzleBizzle\FizzleBizzle\bin\Microsoft.AI.Web.dll
+c:\users\mager\onedrive\documents\visual studio 2015\Projects\Fizzle\FizzleBizzle\FizzleBizzle\bin\Microsoft.AI.WindowsServer.dll
+c:\users\mager\onedrive\documents\visual studio 2015\Projects\Fizzle\FizzleBizzle\FizzleBizzle\bin\Microsoft.ApplicationInsights.dll
+c:\users\mager\onedrive\documents\visual studio 2015\Projects\Fizzle\FizzleBizzle\FizzleBizzle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mager\onedrive\documents\visual studio 2015\Projects\Fizzle\FizzleBizzle\FizzleBizzle\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\mager\onedrive\documents\visual studio 2015\Projects\Fizzle\FizzleBizzle\FizzleBizzle\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\mager\onedrive\documents\visual studio 2015\Projects\Fizzle\FizzleBizzle\FizzleBizzle\bin\Microsoft.AI.Web.xml
+c:\users\mager\onedrive\documents\visual studio 2015\Projects\Fizzle\FizzleBizzle\FizzleBizzle\bin\Microsoft.AI.WindowsServer.xml
+c:\users\mager\onedrive\documents\visual studio 2015\Projects\Fizzle\FizzleBizzle\FizzleBizzle\bin\Microsoft.ApplicationInsights.xml
+c:\users\mager\onedrive\documents\visual studio 2015\Projects\Fizzle\FizzleBizzle\FizzleBizzle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mager\onedrive\documents\visual studio 2015\Projects\Fizzle\FizzleBizzle\FizzleBizzle\obj\Debug\FizzleBizzle.csprojResolveAssemblyReference.cache
+c:\users\mager\onedrive\documents\visual studio 2015\Projects\Fizzle\FizzleBizzle\FizzleBizzle\obj\Debug\FizzleBizzle.dll
+c:\users\mager\onedrive\documents\visual studio 2015\Projects\Fizzle\FizzleBizzle\FizzleBizzle\obj\Debug\FizzleBizzle.pdb
+C:\Users\mager\Dropbox\Resume\Portfolio\FizzleBizzle\FizzleBizzle\FizzleBizzle\bin\ApplicationInsights.config
+C:\Users\mager\Dropbox\Resume\Portfolio\FizzleBizzle\FizzleBizzle\FizzleBizzle\bin\roslyn\csc.exe
+C:\Users\mager\Dropbox\Resume\Portfolio\FizzleBizzle\FizzleBizzle\FizzleBizzle\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mager\Dropbox\Resume\Portfolio\FizzleBizzle\FizzleBizzle\FizzleBizzle\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mager\Dropbox\Resume\Portfolio\FizzleBizzle\FizzleBizzle\FizzleBizzle\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mager\Dropbox\Resume\Portfolio\FizzleBizzle\FizzleBizzle\FizzleBizzle\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mager\Dropbox\Resume\Portfolio\FizzleBizzle\FizzleBizzle\FizzleBizzle\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mager\Dropbox\Resume\Portfolio\FizzleBizzle\FizzleBizzle\FizzleBizzle\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mager\Dropbox\Resume\Portfolio\FizzleBizzle\FizzleBizzle\FizzleBizzle\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mager\Dropbox\Resume\Portfolio\FizzleBizzle\FizzleBizzle\FizzleBizzle\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mager\Dropbox\Resume\Portfolio\FizzleBizzle\FizzleBizzle\FizzleBizzle\bin\roslyn\vbc.exe
+C:\Users\mager\Dropbox\Resume\Portfolio\FizzleBizzle\FizzleBizzle\FizzleBizzle\bin\roslyn\VBCSCompiler.exe
+C:\Users\mager\Dropbox\Resume\Portfolio\FizzleBizzle\FizzleBizzle\FizzleBizzle\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mager\Dropbox\Resume\Portfolio\FizzleBizzle\FizzleBizzle\FizzleBizzle\bin\FizzleBizzle.dll.config
+C:\Users\mager\Dropbox\Resume\Portfolio\FizzleBizzle\FizzleBizzle\FizzleBizzle\bin\FizzleBizzle.dll
+C:\Users\mager\Dropbox\Resume\Portfolio\FizzleBizzle\FizzleBizzle\FizzleBizzle\bin\FizzleBizzle.pdb
+C:\Users\mager\Dropbox\Resume\Portfolio\FizzleBizzle\FizzleBizzle\FizzleBizzle\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\mager\Dropbox\Resume\Portfolio\FizzleBizzle\FizzleBizzle\FizzleBizzle\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\mager\Dropbox\Resume\Portfolio\FizzleBizzle\FizzleBizzle\FizzleBizzle\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\mager\Dropbox\Resume\Portfolio\FizzleBizzle\FizzleBizzle\FizzleBizzle\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\mager\Dropbox\Resume\Portfolio\FizzleBizzle\FizzleBizzle\FizzleBizzle\bin\Microsoft.AI.Web.dll
+C:\Users\mager\Dropbox\Resume\Portfolio\FizzleBizzle\FizzleBizzle\FizzleBizzle\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\mager\Dropbox\Resume\Portfolio\FizzleBizzle\FizzleBizzle\FizzleBizzle\bin\Microsoft.ApplicationInsights.dll
+C:\Users\mager\Dropbox\Resume\Portfolio\FizzleBizzle\FizzleBizzle\FizzleBizzle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mager\Dropbox\Resume\Portfolio\FizzleBizzle\FizzleBizzle\FizzleBizzle\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\mager\Dropbox\Resume\Portfolio\FizzleBizzle\FizzleBizzle\FizzleBizzle\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\mager\Dropbox\Resume\Portfolio\FizzleBizzle\FizzleBizzle\FizzleBizzle\bin\Microsoft.AI.Web.xml
+C:\Users\mager\Dropbox\Resume\Portfolio\FizzleBizzle\FizzleBizzle\FizzleBizzle\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\mager\Dropbox\Resume\Portfolio\FizzleBizzle\FizzleBizzle\FizzleBizzle\bin\Microsoft.ApplicationInsights.xml
+C:\Users\mager\Dropbox\Resume\Portfolio\FizzleBizzle\FizzleBizzle\FizzleBizzle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mager\Dropbox\Resume\Portfolio\FizzleBizzle\FizzleBizzle\FizzleBizzle\obj\Debug\FizzleBizzle.csprojResolveAssemblyReference.cache
+C:\Users\mager\Dropbox\Resume\Portfolio\FizzleBizzle\FizzleBizzle\FizzleBizzle\obj\Debug\FizzleBizzle.dll
+C:\Users\mager\Dropbox\Resume\Portfolio\FizzleBizzle\FizzleBizzle\FizzleBizzle\obj\Debug\FizzleBizzle.pdb

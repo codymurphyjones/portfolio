@@ -1,0 +1,7 @@
+<div data-options="dxView : { name: 'editqualifier', title: 'Edit Qualifier' } " >
+    <div  data-options="dxContent : { targetPlaceholder: 'content' } " >
+        
+        <div data-bind="dxTextBox: {  }"></div>
+
+    </div>
+</div>

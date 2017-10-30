@@ -1,0 +1,37 @@
+<div data-options="dxView : { name: 'home', title: 'Welcome' } " >
+    <div style="font-size: 11px; color: black;" class="home-view" data-options="dxContent : { targetPlaceholder: 'content' } " >
+
+        <br />
+        <img src="images/logo.jpg" />
+
+        <div style="color: red; margin: 5px; font-size: 12px; " data-bind="visible: errorVisible, text: errorMessage"></div>
+
+        <div class="home-row" style="background-color: white; border-top: 1px solid lightgrey; border-bottom: 1px solid lightgrey;">
+            <div style="display: inline-block; text-align: right; width: 35%; color: rgb(98, 31, 137);">Username</div> 
+            <div id="iUsername" style="display: inline-block; text-align: right; width: 60%; border: 0px;"
+                 data-bind="dxTextBox: { value: username, valueChangeEvent: 'keyup', valueChangeAction: hideError }"></div>
+        </div>
+
+        <div class="home-row" style="background-color: white; border-bottom: 1px solid lightgrey;">
+            <div style="display: inline-block; text-align: right; width: 35%; color: rgb(98, 31, 137);">Remember Username</div> 
+             <div style="display: inline-block; text-align: right; width: 60%; color: blue;"> 
+                <div style="display: inline-block; text-align: right;" data-bind="dxSwitch: { value: rememberMe }"></div>
+             </div> 
+            
+        </div>
+
+        <div class="home-row" style="background-color: white; border-bottom: 1px solid lightgrey;">
+            <div style="display: inline-block; text-align: right; width: 35%; color: rgb(98, 31, 137);">Password</div> 
+            <div style="display: inline-block; text-align: right; width: 60%; border: 0px;"
+                 data-bind="dxTextBox: { mode: 'password', value: password, valueChangeEvent: 'keyup', valueChangeAction: hideError }"></div>
+        </div>
+
+        <div style="text-align: right; margin-right: 5px; margin-top: 3px;"><a href="#">Forgotten Password?</a></div>
+
+        <div style="margin-right: 10px; margin-top: 10px;"  data-bind="dxButton: { text: 'Login', clickAction: login }"></div>
+
+        <div style="margin-top: 10px;">© 2014 Velcoity Meetings and Conventions</div>
+        <div data-bind="dxLoadPanel:{message: 'Connecting...', visible: loadPanelVisible }"></div>
+        
+    </div>
+</div>

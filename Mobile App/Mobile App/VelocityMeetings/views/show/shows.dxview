@@ -1,0 +1,23 @@
+<div data-options="dxView : { name: 'shows', title: 'Trade Shows' } ">
+    <div style="font-size: 11px;" class="shows-view" data-options="dxContent : { targetPlaceholder: 'content' } ">
+        <div>
+            <br />
+            <img src="images/logo.jpg" />
+        </div>
+        <div style="font-size: 14px; color: rgb(98, 31, 137); font-weight: bold;">My Shows</div>
+        <div>
+        
+        <div style="height:400px;" data-bind="dxList: { dataSource: Shows }">
+            <div data-options="dxTemplate: { name: 'item' }" data-bind="dxAction: function() {$root.resultsItemClick($data)}" style =" border: 1px solid lightgrey; padding: 15px; color black; width: 200px; margin: auto;">
+                <img data-bind="attr:{ src:  $data.Image }" /><br />
+                <b><span data-bind="text: $data.Date"></span></b><br />
+                <b><span data-bind="text: $data.Location"></span></b>
+            </div>
+        
+        </div>
+        </div>
+        
+    </div>
+</div>
+
+<!--data-bind="dxAction: $parent.resultsItemClick"--> 

@@ -1,0 +1,187 @@
+﻿  html,body {
+  height:100vh;  
+  max-width: 1500px;
+  margin: 0 auto;
+  padding-top: 00px;
+  color:#ffffff;
+  background-color:#FFDFD8;
+  }
+  
+  h1 {
+  font-size:50px;
+  }
+  
+  .checkbox-margin
+  {
+  margin-left:30%;
+  }
+
+  .modal-content
+  {
+      color:#000000;
+  }
+
+.panel {
+    border: 0;
+}
+
+.table > thead > tr > th, .table > thead > tr > td {
+    border: 0;
+}
+  
+ .subtitle
+{
+	display:block;
+	text-align:right;
+	border-top: 7px solid #ffffff;
+	color:white;
+	font-size:40px;
+}
+
+.textarea
+{
+margin-left:15px;
+margin-right:15px;
+padding-top:5px;
+padding-bottom:10px;
+}
+  
+  .content
+  {
+  min-height:90vh;
+  margin-top:5vh;
+  margin-bottom:5vh;
+  border-radius:15px;
+  box-shadow: 1px 1px 20px #000000;
+  background-color:#CC3611;
+  margin-right:15px;
+  }
+  
+   .stylebox
+  {
+  border-top-right-radius:15px;
+  border-bottom-left-radius:15px;
+  background-color:#FFFFFF;
+  color:#CC3611;
+  margin-top:5%;
+  margin-bottom:7%;
+  }
+  
+ .full
+ {
+ min-height:100vh;
+ }
+ 
+ .textarea p
+ {
+ font-size:20px;
+ font-weight:bold;
+
+ }
+ 
+  .textarea h3
+ {
+ font-weight:bold;
+ }
+ 
+.divarea
+{
+margin-left:15px;
+margin-right:15px;
+padding-top:5px;
+padding-bottom:10px;
+}
+ 
+ .form-margin
+{
+margin-bottom:2%;
+}
+
+
+input, select {
+    margin-top:5px;
+}
+
+.btn {
+    padding: 14px 24px;
+    border: 0 none;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    background-color:#ffffff;
+    color:#CC3611;
+}
+
+.btn:hover {
+    background-color:#ffae78;
+    color:#ffffff;
+}
+
+.btn:focus, .btn:active:focus, .btn.active:focus {
+    background-color:#ffcd9d;
+    color:#CC3611;
+    border:1px solid #fa7319;
+}
+ 
+ 
+@media screen and (max-width: 992px) {
+
+.container .col-xs-12 {
+margin:0px;
+padding:0px;
+}
+
+ .col-xs-12
+{
+margin-top:50px;
+padding-bottom:10px;
+padding-left: 10px;
+padding-right:10px;
+}
+
+.content
+{
+min-height:100vh;
+border-radius:0px;
+box-shadow: 0px;
+}
+
+h1 {
+padding:0px;
+}
+
+}
+
+
+.alignleft {
+    float:left;
+    font-weight:bold;
+    margin: 0px;
+}
+
+.alignright {
+    float:right;
+    font-weight:bold;
+    margin: 0px;
+}
+
+.center {
+    display:block;
+    text-align:center;
+    width:80%;
+}
+
+.panel-heading {
+  background-color: #ffaf4d;
+  color:white;
+}
+
+.error
+{
+    color:#FF0000;
+    padding-left:5px;
+    font-weight:bold;
+}
+ 
+
+ 

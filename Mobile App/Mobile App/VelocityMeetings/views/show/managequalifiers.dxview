@@ -1,0 +1,19 @@
+<div data-options="dxView : { name: 'managequalifiers', title: 'Manage Qualifiers' } " >
+    <div style="font-size: 11px; color: black;" class="home-view" data-options="dxContent : { targetPlaceholder: 'content' } ">
+
+       <div class="home-row" style="background-color: white; border-bottom: 1px solid lightgrey;">
+            <div style="text-align: center; margin: auto; display: inline-block; text-align: right; color: blue;">
+                <div class="settingsbutton" data-bind="dxButton: { text: 'Add New...', clickAction: AddNewQ }"></div>
+            </div>
+        </div>
+
+        <br /><br />
+
+        <div style="text-align: left;" data-bind="dxList: { dataSource: [{ key: 1, title: 'Contact Immediately'}, { key: 2, title: 'Contact within 30 days' }, { key: 3, title: 'New Customer' }, { key: 4, title: 'Current Customer' }, { key: 5, title: 'Product Interest - Replacement Parts' }] }">
+            <div data-bind="dxAction: '#editqualifier/{key}'" data-options="dxTemplate : { name: 'item' } ">
+                <div class="dx-lookup-field" data-bind="text: title"></div>
+            </div>
+        </div>
+
+    </div>
+</div>
