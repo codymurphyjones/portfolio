@@ -19,8 +19,8 @@
 		
 4) CCExchange API
 
-		Details skill as a developer for connecting with an API and building out a structured class for communicating 
-		with the data layer.
+		Details skill as a developer for connecting with an API and building out a structured class for 
+		communicating with the data layer.
 
 5) Discord App
 
