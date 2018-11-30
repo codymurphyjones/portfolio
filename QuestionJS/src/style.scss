@@ -1,0 +1,26 @@
+/*
+Style Loader Tutorial:
+sass src/style.scss styles/style.css
+*/
+
+@mixin media($types...) {
+  @each $type in $types {
+    @media #{$type} {
+      @content($type);
+    }
+  }
+}
+
+//Commenting Out Details
+/*
+Test 1234
+*/
+
+@include media(screen, print) using ($type) {
+  h1 {
+    font-size: 40px;
+    @if $type == print {
+      font-family: Calluna;
+    }
+  }
+}
