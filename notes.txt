@@ -1,0 +1,112 @@
+Objective:
+Develop software that connects people to new opportunities and brings the world closer.
+
+
+
+Strengths
+Communication, Collaboration, Curiousity
+
+Skills
+Programming ->
+	Front End ->
+		React
+		React-Native
+		Vue.js
+		Next/Gatsby
+	Back End ->
+		Express
+		Rest
+		GraphQL
+		Authentication
+		Firebase/Cloud
+Web Tech ->
+	HTTP
+	oAuth
+	SSL
+	CORS
+Databases ->
+	SQL/T-SQL
+	MySql
+	NoSQL -> Firebase
+Project Tooling ->
+	Webpack/Babel
+	Lerna
+	Expo
+	Git
+	
+	
+
+Personal Projects
+NativeCore
+Technology: Next.js, React-Native, React, React-Native Web, Expo
+
+Objective:
+Design a project framework that can be compiled with out of the box support for web, iOS, or Android app.
+
+Accomplishments:
+	- Ensured all relevant modules can be transpiled in next, and are imported by default in Native.
+	- Developed scripts to override symlinks with real documents to prevent React-Native errors.
+	- Created a project framework for web, iOS and Android
+	- React and React-Native utilize the same UI Library
+	- Utilize a monorepo for emphasis on seperation of concerns
+
+What did you learn?
+In developing NativeCore, I was given the "privilege" of getting down and dirty with modern javascript tooling.  Next.js is a webserver built on top of the Express module, and Next.js renders React and then saves it as if it were an HTML file.  This caused a series of complications becuase I was no longer just worrying about how the React code transpiled, but also how it was processed on the server side render.
+
+I needed a method to allow React-Native to handle its own compiling, while still ensuring I could force Next to compile properly.  The priority was the build for React-Native, but to still work on web.  This led to the creation of "package-scripts", which are scripts I built that help automate the compiling process for Next and React-Native.  By having my pre-build processes analyze the files to be bundled I was able to determine which files need to be passed to React-Native, and implement my own custom transpilation code for Next.
+
+TrelloMeals
+
+Objective:
+Design a system to generate weekly meals.
+
+
+Accomplishments:
+	- Utilize oAuth to connect to an external API
+	- Understand oAuth tokens and automatic authentication based on tokens.
+
+What did you learn?
+Trello API requires oAuth Authentication in order to query the API.  TrelloMeals was a simple app that randomly loaded a trello card that would have the list of ingredients for the meal, my system would load 5 cards for 5 meals and provide me with a basic grocery list to start my week.
+
+CustomMobilePortal
+
+Objective:
+Understand React by treating it like a static HTML language instead of a reactive javascript language.
+
+Accomplishments:
+	- Create an SSR sever to server React Document
+	- Consume SSR into HMTL and output file.  Generate .css based on configuration.
+	- Developed a CGI to simplify site builds
+
+What did you learn?
+I learned not to do things that make no sense at all.  This was a project that was a fun concept because I was new to React and wanted to practice server side render.
+
+This is an app that utilized HTTP servers, React SSR, and Next.JS to generate templated HTML websites.  I learned a lot about building react components and how to consume them, while getting a hard taught lesson on what not to do.
+
+NodeAPIServer
+
+Objective:
+Get a better understanding of Node.JS modules via building an Express Server API that passes Requests further down the tech stack to be managed by a different module.
+
+Accomplishments:
+	- Understand how to use an Express Server and how an HTTP request life cycle plays out
+	- Develop module based system for Routing
+
+What did you learn?
+NodeAPIServer was a great attempt at learning more about modules and how http requests function from a back end point of view.  I learned about routing and how to properly pass javascript across files.
+
+compile-schema
+
+Objective:
+Develop a node module to assist in managing a graphQL schema.  This is a module that helps extract the openGL data schema aspect of building an openGL server into its own location to help with seperation of concerns.
+
+Accomplishments:
+	- Get a deeper understand of GraphQL and how it is configured
+	- Seperate data oriented configuration away from application configuration
+
+What did you learn?
+I gave myself a lot of exposure to graphQL during the development of this module.  As a developer who thinks in an object oriented way, I never like application configuration to interfere with feature development.  This allowed me to split my app into two parts to ensure that the seperation was enforced.
+
+
+
+
